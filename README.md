@@ -1,2 +1,2 @@
 # Drum-Kit
- Drums kit
+ drums
